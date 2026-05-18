@@ -1,0 +1,51 @@
+{
+    "data": {
+        "isShowAppDownloadUp": true,
+        "isShowAppDownloadDown": true,
+        "isShowLotteryDragon": true,
+        "isSplitLocalEWallet": true,
+        "jackportMaxReswadAmount": 500.00,
+        "projectName": "OK WIN",
+        "projectLogo": "https://selimxpro.com/assets/png/logo-f7e29255.png",
+        "languages": "en|hd",
+        "webIco": "https://ossimg.cmdgametransit.com/OK.Win/other/h5setting_20240614175031ba4k.png",
+        "headLogo": "https://selimxpro.com/assets/png/logowhite.png",
+        "dollarSign": "₹",
+        "upperOrLower": "0",
+        "defaultCurrentLanguage": "en",
+        "registerMobile": "1",
+        "registerEmail": "0",
+        "areaPhoneLenList": [
+            {
+                "area": "+91",
+                "len": "10"
+            }
+        ],
+        "registerSms": "0",
+        "isOpenLoginChangeLanguage": "1",
+        "rewardValidityTime": 1,
+        "electronicWinRateExternalLink": "",
+        "electronicWinRateImgUrl": "https://ossimg.91admin123admin.com/91club",
+        "isShowElectronicWinRateExternalLink": false,
+        "isShowAppHandCodeWashingSwitch": true,
+        "isShowHotGameWinOdds": true,
+        "ossUrl": "https://ossimg.91admin123admin.com",
+        "bigTurntableLink": null,
+        "telegramExternalLink": null,
+        "isOpenActivityAward": true,
+        "isOpenTurntable": true,
+        "isPartnerReward": true,
+        "isSelfCustomerService": true,
+        "webSiteUrl": "https://www.91appy.com",
+        "isOpenFacebookEvent": false,
+        "firstDepositRewardCodeAmount": "1",
+        "isOpenRegisterPhoneFirstZeroSwitch": false,
+        "eventRegionConfigList": [],
+        "isOpenAdjustEvent": false,
+        "eventDomainRelationList": null
+    },
+    "code": 0,
+    "msg": "Succeed",
+    "msgCode": 0,
+    "serviceNowTime": "2025-01-21 20:31:52"
+}

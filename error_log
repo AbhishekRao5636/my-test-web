@@ -1,0 +1,9 @@
+[03-Aug-2025 19:53:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/okwin10/public_html/nayakaphalitansa_mulaka_unohs.php on line 7
+[03-Aug-2025 19:53:01 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/okwin10/public_html/niyamitakelasa.php on line 36
+[03-Aug-2025 19:53:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/okwin10/public_html/niyamitakelasa.php on line 37
+[03-Aug-2025 19:55:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/okwin10/public_html/nayakaphalitansa_mulaka_unohs.php on line 7
+[03-Aug-2025 19:55:01 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/okwin10/public_html/niyamitakelasa.php on line 36
+[03-Aug-2025 19:55:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/okwin10/public_html/niyamitakelasa.php on line 37
+[03-Aug-2025 20:02:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/okwin10/public_html/nayakaphalitansa_mulaka_unohs.php on line 7
+[03-Aug-2025 20:02:01 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/okwin10/public_html/niyamitakelasa.php on line 36
+[03-Aug-2025 20:02:01 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/okwin10/public_html/niyamitakelasa.php on line 37

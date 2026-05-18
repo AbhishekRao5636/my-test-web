@@ -1,0 +1,19 @@
+# Enable URL rewriting
+RewriteEngine On
+
+# Redirect to PHP files if no directory exists
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
+
+# Set the server timezone
+SetEnv TZ Asia/Kolkata
+
+# Custom 404 error page
+ErrorDocument 404 /index.html
+
+# Force HTTPS redirection
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^(www\.)?apkafurniture\.store$ [NC]
+RewriteRule ^/?$ "https://selimxpro.com/" [R=301,L]

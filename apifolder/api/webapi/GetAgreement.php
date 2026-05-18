@@ -1,0 +1,9 @@
+{
+    "data": {
+        "agreement": "<p class=\"MsoNormal\"><span lang=\"EN-US\">User Agreement<o:p></o:p></span></p><p class=\"MsoNormal\"><span lang=\"EN-US\"></span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">1. To avoid betting disputes, members mustread the company's rules before entering the app. Once the player \"Iagree\" By entering this company to bet, you will be considered to be inagreement with the company's User Agreement.<o:p></o:p></span></p><p class=\"MsoNormal\"><span lang=\"EN-US\"></span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">2. It is the member's responsibility toensure the confidentiality of their account and login information. Any onlinebets placed using your account number and member password will be consideredvalid. Please change your password from time to time. The company is notresponsible for any compensation for bets made with a stolen account andpassword.<br><br>3. The company reserves the right to change this agreement or the game rules orconfidentiality rules from time to time. The modified terms will take effect onthe date specified after the change occurs, and the right to make finaldecisions on all disputes is reserved by the company.<o:p></o:p></span></p><p class=\"MsoNormal\"><span lang=\"EN-US\"></span></p><p class=\"MsoNormal\"><span lang=\"EN-US\">4. Users must be or legal age according tothe laws of the country of residence to use an online casino or application.Online bets that have not been successfully submitted will be considered void.<o:p></o:p></span></p><p class=\"MsoNormal\"><span lang=\"EN-US\"></span></p><p></p><p class=\"MsoNormal\"><span lang=\"EN-US\">5. When a player is automatically orforcibly disconnected from the game before the game result is announced, itwill not affect the game result.<o:p></o:p></span></p>"
+    },
+    "code": 0,
+    "msg": "Succeed",
+    "msgCode": 0,
+    "serviceNowTime": "2025-01-25 18:38:58"
+}

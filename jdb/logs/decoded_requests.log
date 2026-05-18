@@ -1,0 +1,6530 @@
+2024-10-10 09:37:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553059397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:38:00 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553079721,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-10-10 09:38:08 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553088178,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:38:10 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553089552,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:38:15 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553094397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:38:20 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553099398,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:38:25 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553104386,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:38:30 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553109386,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:38:35 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553114406,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:38:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553119386,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:38:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553126411,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:38:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553131397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:38:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553136414,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:39:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553141396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:39:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553146404,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:39:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553151398,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:39:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553156395,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:39:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553161392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:39:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553166389,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:39:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553171388,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:39:37 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553176386,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:39:43 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553182404,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:39:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553191399,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:39:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553196658,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:40:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553201403,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:40:03 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553202443,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-10-10 09:40:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553206398,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:40:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553211401,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:40:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553216406,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:40:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553221425,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:40:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553226390,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:40:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553231392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:40:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553236390,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:40:45 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553244412,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:40:50 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553249397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:40:55 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553254403,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:41:00 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553259410,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:41:05 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553264407,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:41:10 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553269668,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:41:15 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553274405,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:41:20 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553279395,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:41:25 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553284398,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:41:30 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553289404,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:41:35 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553294389,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:41:51 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553310398,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:41:56 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553315399,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:42:01 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553320409,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:42:06 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553325412,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:42:11 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553330858,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:42:16 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553335397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:42:21 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553340390,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:42:26 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553345407,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:42:31 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553350411,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:42:36 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553355394,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:42:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553360425,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:42:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553366393,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:42:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553371392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:42:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553376397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:43:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553381403,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:43:11 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553390391,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:43:16 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553395407,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:43:25 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553404387,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:43:30 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553409390,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:43:35 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553414402,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:43:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553419400,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:43:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553426393,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:43:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553431399,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:43:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553436396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:44:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553441397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:44:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553446409,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:44:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553451399,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:44:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553461397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:44:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553466395,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:44:30 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553469758,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-10-10 09:44:36 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553475394,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:44:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553480638,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:44:43 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553482777,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:44:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553486401,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:44:48 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553487394,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:44:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553491395,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:44:53 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553492387,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:44:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553496396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:44:58 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553497392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553501430,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:03 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553502406,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553506392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:08 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553507392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553511381,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:13 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553512385,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553516381,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:18 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553517392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553521385,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:23 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553522387,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553526398,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:28 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553527381,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553531392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:33 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553532385,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:38 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553536411,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553537397,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:43 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553542394,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:46 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553545392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:48 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553547391,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:51 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553550391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:53 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553552396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:56 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553555388,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:45:58 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553557661,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:01 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553560419,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:03 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553562397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:06 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553565389,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:08 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553567398,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:11 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553570398,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:13 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553572407,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:16 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553575387,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:18 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553577403,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:21 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553580383,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:23 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553582403,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:26 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553585386,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:28 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553587404,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:31 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553590400,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:33 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553592402,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:36 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553595392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553597393,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553600825,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:46 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553605396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553606394,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:51 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553610391,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553611394,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:56 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553615407,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:46:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553616634,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:01 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553620404,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553621391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:06 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553625403,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553626398,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:11 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553630396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553631394,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:16 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553635395,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553636387,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:21 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553640397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553641382,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:26 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553645402,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553646395,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:31 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553650415,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553651386,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:36 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553655398,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:37 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553656400,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553661404,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553660399,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553666398,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:48 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553667393,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553671404,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:53 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553672392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553676406,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:47:58 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553677391,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553681388,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:03 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553682388,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553686392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:08 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553687642,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553691391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:13 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553692660,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553696398,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:18 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553697396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553701394,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:23 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553702395,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553706417,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:28 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553707391,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553711397,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:33 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553712395,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553716402,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553717395,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:45 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553724403,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:46 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553725396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:50 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553729387,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:51 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553730433,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:55 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553734393,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:48:56 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553735396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:00 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553739402,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:01 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553740397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:05 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553744392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:06 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553745400,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:10 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553749396,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:11 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553750411,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:15 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553754382,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:16 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553755421,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:20 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553759423,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:21 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553760397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:25 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553764398,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:26 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553765395,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:30 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553769395,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:31 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553770381,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:35 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553774395,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:36 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553775394,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:36 {
+    "decodedRequest": null
+}
+2024-10-10 09:49:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553779391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553780392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:48 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553787399,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:48 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553787404,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:53 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553792389,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:53 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553792388,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:58 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553797410,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:49:58 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553797406,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:03 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553802397,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:03 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553802398,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:08 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553807383,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:08 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553807391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:13 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553812397,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:13 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553812402,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:18 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553817389,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:18 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553817390,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:23 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553822390,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:23 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553822390,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:28 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553827394,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:28 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553827394,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:33 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553832422,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:33 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553832425,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553837405,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553837409,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:46 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553845392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:46 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553845393,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:51 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553850398,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:51 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553850403,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:56 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553855400,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:50:56 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553855399,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:01 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553860407,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:01 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553860411,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:06 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553865403,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:06 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553865402,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:11 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553870394,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:11 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553870395,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:16 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553875399,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:16 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553875397,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:21 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553880389,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:21 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553880387,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:26 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553885392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:26 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553885400,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:31 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553890393,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:31 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553890404,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:36 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553895391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:36 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553895400,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553900388,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553900388,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553906392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553906393,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553911397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553911398,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553916416,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:51:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553916416,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553921392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553921399,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553926399,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553926399,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553931388,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553931388,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553936383,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553936383,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553941385,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553941391,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553946391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553946399,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553951393,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553951393,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553956640,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553956383,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:45 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553964388,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:45 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553964388,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:50 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553969400,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:50 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553969402,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:55 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553974391,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:52:55 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553974396,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:00 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553979405,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:00 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553979404,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:05 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553984394,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:05 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553984393,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:10 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553989396,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:10 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553989669,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:15 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553994393,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:15 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553994391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:20 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553999391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:20 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728553999393,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:25 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554004416,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:25 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554004416,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:30 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554009397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:30 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554009396,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:35 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554014416,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:35 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554014416,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554019394,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554019391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554026391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554026391,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554031401,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554031401,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554031401,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-10-10 09:53:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554036400,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:53:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554036400,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554041437,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554041437,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554046391,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:08 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554047395,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554051386,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:13 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554052395,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554056386,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:18 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554057386,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554061399,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:23 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554062394,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554066385,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:29 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554068390,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:31 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554071148,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:34 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554073389,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:37 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554076387,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554078395,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554081394,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554086395,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554086395,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554091393,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554091389,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554096402,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:54:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554096402,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554101383,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554101386,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554106385,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554106390,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554111388,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554111389,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554116388,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554116396,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554121381,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554121390,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:25 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554124758,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-10-10 09:55:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554126399,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554126394,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554131396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:33 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554132401,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:39 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554136401,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:41 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554137421,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:44 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554143399,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:46 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554145386,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:49 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554148390,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:51 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554150386,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:54 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554153383,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:56 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554155391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:55:59 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554158406,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:01 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554160397,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:04 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554163384,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:06 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554165406,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:09 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554168406,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:11 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554170392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:14 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554173396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:16 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554175387,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:19 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554178399,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:21 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554180387,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:24 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554183386,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:26 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554185392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:29 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554188398,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:31 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554190401,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:34 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554193387,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:36 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554195402,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554198391,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554200396,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554206393,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554206395,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554211397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554211383,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554216384,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:56:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554216381,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554221420,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554221412,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554226401,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554226386,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554231393,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554231403,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554236402,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554236390,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554241439,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554241446,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554246395,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554246396,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554251398,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554251401,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:40 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554256406,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:41 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554256397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:45 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554264405,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:45 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554264392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:50 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554269397,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:50 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554269396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:55 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554274391,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:57:55 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554274411,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:00 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554279385,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:00 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554279385,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:05 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554284400,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:05 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554284396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:10 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554289659,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:10 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554289650,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:15 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554294387,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:15 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554294389,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:20 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554299393,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:20 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554299393,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:25 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554304384,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:25 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554304381,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:30 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554309390,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:30 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554309390,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:35 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554314390,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:35 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554314394,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:41 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554319394,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:41 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554319390,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554326388,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554326383,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554331402,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554331401,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554336391,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:58:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554336389,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554341394,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554341391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554346635,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554346650,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554351395,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554351399,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554356387,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554356384,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554361393,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554361422,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554366392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554366392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554371383,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554371383,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:37 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554376404,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:40 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554376405,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554381388,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:45 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554384389,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554386383,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:50 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554389391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554391397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:55 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554394388,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 09:59:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554396397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:00 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554399387,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554401391,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:05 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554404384,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554406397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:10 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554409385,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554411392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:15 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554414391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554416391,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:20 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554419392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554421405,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:25 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554424396,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:28 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554427407,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:30 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554429389,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:33 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554432394,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:35 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554434390,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:40 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554437383,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554439387,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:45 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554444385,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554446381,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:50 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554449401,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554451382,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:55 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554454397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:00:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554456398,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:00 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554459401,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554461393,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:05 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554464403,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554466382,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:10 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554469401,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554471663,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:15 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554474388,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554476384,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:20 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554479392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554481385,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:25 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554484398,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554486408,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:30 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554489400,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554491388,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:35 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554494386,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:40 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554496426,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554499403,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:45 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554504399,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554506396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:50 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554509407,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554511384,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:55 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554514392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:01:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554516413,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:00 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554519383,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554521392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:05 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554524388,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554526404,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:10 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554529386,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554531393,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:13 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554532653,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22001
+    }
+}
+2024-10-10 10:02:15 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554534386,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554536389,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:20 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554539392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554541388,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:25 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554544386,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554546392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:29 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554547835,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:30 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554549382,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:30 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554549720,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554551421,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:35 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554554387,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:35 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554554397,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:37 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554556428,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:41 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554559382,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:41 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554559384,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554561384,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554566384,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554566387,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554566396,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554571385,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554571392,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554571385,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554576397,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554576391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:02:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554576397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554581398,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554581384,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554581392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554586390,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554586653,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554586654,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554591383,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554591385,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554591383,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554596390,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554596391,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554596390,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554601396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554601399,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554601403,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554606392,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554606392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554606397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554611383,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554611383,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554611386,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:38 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554616426,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:40 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554616421,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554621386,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:44 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554623389,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:48 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554627387,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:48 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554627396,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:49 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554628391,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:53 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554632387,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:54 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554633394,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:54 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554633395,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:58 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554637392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:59 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554638415,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:03:59 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554638413,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:03 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554642418,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:04 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554643388,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:04 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554643398,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:08 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554647401,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:09 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554648401,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:09 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554648396,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:13 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554652392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:14 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554653391,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:14 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554653395,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:19 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554658391,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:19 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554658396,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:19 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554658393,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:24 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554663396,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:24 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554663396,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:24 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554663392,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:29 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554668390,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:29 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554668390,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:29 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554668397,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:34 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554673396,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:34 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554673401,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:34 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554673400,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:41 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554678396,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:41 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554678395,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:41 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554678400,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554686405,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554686415,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554686410,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554691394,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554691402,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554691398,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554696420,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:04:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554696408,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:01 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554700388,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554701406,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554701406,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:06 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554705408,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554706401,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554706400,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:11 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554710418,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554711410,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554711406,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:16 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554715388,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554716400,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554716405,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:21 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554720398,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554721402,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554721393,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:26 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554725394,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554726401,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554726405,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:31 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554730398,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554731386,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554731392,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:36 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554735393,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:37 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554736407,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:41 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554740404,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:41 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554737391,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:42 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554741403,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:46 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554745407,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554746442,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:47 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554746470,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554751396,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554751403,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:52 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554751402,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554756407,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554756401,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:05:57 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554756403,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554761490,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554761462,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:02 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554761503,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554766385,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554766375,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:07 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554766397,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554771406,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554771406,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:12 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554771409,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554776422,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554776421,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:17 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554776416,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554781423,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554781428,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:22 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554781426,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554786396,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:27 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554786396,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:28 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554787399,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554791398,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:32 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554791403,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:33 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554792398,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:39 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554796418,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:41 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554796421,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:41 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554797394,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:45 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554804397,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:45 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554804399,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:46 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554805691,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:50 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554809389,
+        "uid": "0000000000",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:50 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554809396,
+        "uid": "1234512343",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:06:51 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728554810406,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 999,
+        "mType": 999
+    }
+}
+2024-10-10 10:42:38 {
+    "decodedRequest": null
+}
+2024-10-10 12:06:33 {
+    "decodedRequest": null
+}
+2024-10-10 14:33:48 {
+    "decodedRequest": null
+}
+2024-10-10 14:33:51 {
+    "decodedRequest": null
+}
+2024-10-10 18:26:51 {
+    "decodedRequest": null
+}
+2024-10-10 19:23:03 {
+    "decodedRequest": null
+}
+2024-10-10 20:59:15 {
+    "decodedRequest": null
+}
+2024-10-10 22:12:23 {
+    "decodedRequest": null
+}
+2024-10-11 00:25:55 {
+    "decodedRequest": null
+}
+2024-10-11 01:42:22 {
+    "decodedRequest": null
+}
+2024-10-11 05:32:46 {
+    "decodedRequest": null
+}
+2024-10-11 05:32:48 {
+    "decodedRequest": null
+}
+2024-10-11 06:56:04 {
+    "decodedRequest": null
+}
+2024-10-11 08:45:37 {
+    "decodedRequest": null
+}
+2024-10-11 10:28:59 {
+    "decodedRequest": null
+}
+2024-10-11 10:28:59 {
+    "decodedRequest": null
+}
+2024-10-11 12:14:49 {
+    "decodedRequest": null
+}
+2024-10-11 16:19:38 {
+    "decodedRequest": null
+}
+2024-10-11 16:43:09 {
+    "decodedRequest": null
+}
+2024-10-11 16:51:33 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728665492320,
+        "uid": "1111111111",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22009
+    }
+}
+2024-10-11 16:51:44 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728665504133,
+        "uid": "1111111111",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22009
+    }
+}
+2024-10-11 16:53:31 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728665607954,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22009
+    }
+}
+2024-10-11 16:54:03 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728665643066,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22009
+    }
+}
+2024-10-11 16:55:20 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728665719352,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22009
+    }
+}
+2024-10-11 16:56:25 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728665784704,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22009
+    }
+}
+2024-10-11 16:58:39 {
+    "decodedRequest": {
+        "action": 6,
+        "ts": 1728665918689,
+        "uid": "9135426359",
+        "currency": "RS",
+        "gType": 22,
+        "mType": 22009
+    }
+}
